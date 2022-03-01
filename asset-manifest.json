@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChintanJoshi14/practical7.git/static/css/main.347c1e63.css",
+    "main.js": "/ChintanJoshi14/practical7.git/static/js/main.0be006bd.js",
+    "static/js/787.e26fcb3a.chunk.js": "/ChintanJoshi14/practical7.git/static/js/787.e26fcb3a.chunk.js",
+    "static/media/d1-modified.png": "/ChintanJoshi14/practical7.git/static/media/d1-modified.7782e6252d46ca012e9a.png",
+    "index.html": "/ChintanJoshi14/practical7.git/index.html",
+    "main.347c1e63.css.map": "/ChintanJoshi14/practical7.git/static/css/main.347c1e63.css.map",
+    "main.0be006bd.js.map": "/ChintanJoshi14/practical7.git/static/js/main.0be006bd.js.map",
+    "787.e26fcb3a.chunk.js.map": "/ChintanJoshi14/practical7.git/static/js/787.e26fcb3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347c1e63.css",
+    "static/js/main.0be006bd.js"
+  ]
+}
